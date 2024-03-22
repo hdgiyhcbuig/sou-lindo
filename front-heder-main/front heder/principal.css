@@ -1,0 +1,19 @@
+.principal {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
+.landing_text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: aliceblue;
+    font-size: 43%;
+    text-align: center;
+}
+.imagem-center{
+    margin: 0 auto;
+    display: block;
+    
+}
